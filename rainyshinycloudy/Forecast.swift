@@ -1,10 +1,4 @@
-//
-//  Forecast.swift
-//  rainyshinycloudy
-//
-//  Created by Caleb Stultz on 7/27/16.
-//  Copyright © 2016 Caleb Stultz. All rights reserved.
-//
+
 
 import UIKit
 import Alamofire
