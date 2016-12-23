@@ -1,11 +1,3 @@
-//
-//  AppDelegate.swift
-//  rainyshinycloudy
-//
-//  Created by Caleb Stultz on 7/26/16.
-//  Copyright © 2016 Caleb Stultz. All rights reserved.
-//
-
 import UIKit
 
 @UIApplicationMain
